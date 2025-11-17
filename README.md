@@ -8,7 +8,7 @@ I'm currently seeking an **internship (SIWES)** opportunity to grow, collaborate
 
 ---
 
-## 🎀 **Tech Stack & Tools **
+## 🎀 Tech Stack & Tools 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
@@ -93,4 +93,4 @@ I love designing beautiful interfaces and watching them come alive in code. Crea
 
 ---
 
-If you like my work, feel free to ⭐ my repositories or reach out for collaboration!
+I will be adding new repositories to share my work,if you like then feel free to ⭐ my repositories or reach out for collaboration!
